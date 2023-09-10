@@ -19,14 +19,6 @@ h1 {
     height: 10rem;
 }
 
-hr {
-    border-color: #f05f44;
-    border-width: 3px;
-    max-width: 65px;
-    opacity: 1;
-    margin: auto;
-    
-}
 
 .btn{
     font-weight: 700;
